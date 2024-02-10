@@ -1,4 +1,5 @@
 **algorithm is so difficult...**
+🤯
 
 ---
 
@@ -23,3 +24,17 @@
 ---
 
 ### 链表
+* [203.移除链表元素](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B203%5D%E7%A7%BB%E9%99%A4%E9%93%BE%E8%A1%A8%E5%85%83%E7%B4%A0.java)
+* [206.反转链表](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B206%5D%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.java)
+* [92.反转链表Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B92%5D%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%20II.java)
+* [707.设计链表](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B707%5D%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8.java)
+* [24.两两交换链表中的节点](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B24%5D%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.java)
+* [19.删除链表的倒数第N个节点](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B19%5D%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%AC%20N%20%E4%B8%AA%E7%BB%93%E7%82%B9.java)
+* [141.环形链表](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B141%5D%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.java)
+* [142.环形链表Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B142%5D%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8%20II.java)
+* [160.相交链表](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B160%5D%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.java)
+
+---
+
+### 哈希表
+
