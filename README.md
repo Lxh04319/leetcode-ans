@@ -60,4 +60,23 @@
 ---
 
 栈与队列
-* 
+* [232.用栈实现队列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B232%5D%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.java)
+* [225.用队列实现栈](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B225%5D%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.java)
+* [20.有效的括号](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B20%5D%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.java)
+* [1047.删除字符串中的所有相邻重复项](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B18%5D%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.java)
+* [150.逆波兰表达式求值](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B150%5D%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.java)
+* [239.滑动窗口最大值](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B239%5D%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.java)
+
+---
+
+二叉树
+
+---
+
+动态规划
+
+---
+
+单调栈
+
+---
