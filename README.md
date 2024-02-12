@@ -43,7 +43,11 @@
 * [349.两个数组的交集](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B349%5D%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.java)
 * [350.两个数组的交集Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B350%5D%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.java)
 * [202.快乐数](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B202%5D%E5%BF%AB%E4%B9%90%E6%95%B0.java)
+* [1.两数之和](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B1%5D%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.java)
+* [454.四数相加Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B454%5D%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.java)
+* [15.三数之和](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B15%5D%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.java)
+* [18.四数之和](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B18%5D%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.java)
 
 ---
 
-
+字符串
