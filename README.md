@@ -37,4 +37,13 @@
 ---
 
 ### 哈希表
+* [242.有效的字母异位词](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B242%5D%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.java)
+* [383.赎金信](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B383%5D%E8%B5%8E%E9%87%91%E4%BF%A1.java)
+* [49.字母异位词分组](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B49%5D%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.java)
+* [349.两个数组的交集](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B349%5D%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.java)
+* [350.两个数组的交集Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B350%5D%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.java)
+* [202.快乐数](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B202%5D%E5%BF%AB%E4%B9%90%E6%95%B0.java)
+
+---
+
 
