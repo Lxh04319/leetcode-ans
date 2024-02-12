@@ -51,3 +51,13 @@
 ---
 
 字符串
+* [344.反转字符串](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B344%5D%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.java)
+* [541.反转字符串Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B541%5D%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%20II.java)
+* [151.反转字符串中的单词](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B151%5D%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D.java)
+* [28.找出字符串中第一个匹配项的下标](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B28%5D%E6%89%BE%E5%87%BA%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8C%B9%E9%85%8D%E9%A1%B9%E7%9A%84%E4%B8%8B%E6%A0%87.java)
+* [459.重复的子字符串](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B459%5D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.java)
+
+---
+
+栈与队列
+* 
