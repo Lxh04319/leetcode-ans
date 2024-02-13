@@ -91,6 +91,13 @@
 ---
 
 ### 动态规划
+1. [509.斐波那契数](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B509%5D%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.java)
+2. [70.爬楼梯](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B70%5D%E7%88%AC%E6%A5%BC%E6%A2%AF.java)
+3. [746.使用最小花费爬楼梯](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B746%5D%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.java)
+4. [62.不同路径](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B62%5D%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.java)
+5. [63.不同路径Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B63%5D%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II.java)
+6. [343.整数拆分](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B343%5D%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.java)
+7. [96.不同的二叉搜索树](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B96%5D%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.java)
 
 ---
 
