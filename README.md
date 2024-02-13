@@ -43,7 +43,40 @@
 * [349.两个数组的交集](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B349%5D%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.java)
 * [350.两个数组的交集Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B350%5D%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.java)
 * [202.快乐数](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B202%5D%E5%BF%AB%E4%B9%90%E6%95%B0.java)
+* [1.两数之和](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B1%5D%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.java)
+* [454.四数相加Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B454%5D%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0%20II.java)
+* [15.三数之和](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B15%5D%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.java)
+* [18.四数之和](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B18%5D%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.java)
 
 ---
 
+### 字符串
+* [344.反转字符串](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B344%5D%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.java)
+* [541.反转字符串Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B541%5D%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%20II.java)
+* [151.反转字符串中的单词](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B151%5D%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D.java)
+* [28.找出字符串中第一个匹配项的下标](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B28%5D%E6%89%BE%E5%87%BA%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8C%B9%E9%85%8D%E9%A1%B9%E7%9A%84%E4%B8%8B%E6%A0%87.java)
+* [459.重复的子字符串](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B459%5D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.java)
 
+---
+
+### 栈与队列
+* [232.用栈实现队列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B232%5D%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.java)
+* [225.用队列实现栈](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B225%5D%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.java)
+* [20.有效的括号](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B20%5D%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.java)
+* [1047.删除字符串中的所有相邻重复项](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B1047%5D%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E7%9B%B8%E9%82%BB%E9%87%8D%E5%A4%8D%E9%A1%B9.java)
+* [150.逆波兰表达式求值](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B150%5D%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.java)
+* [239.滑动窗口最大值](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B239%5D%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.java)
+
+---
+
+### 二叉树
+
+---
+
+### 动态规划
+
+---
+
+### 单调栈
+
+---
