@@ -87,6 +87,7 @@
 15. [101.对称二叉树](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B101%5D%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.java)
 16. [222.完全二叉树的节点个数](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B222%5D%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0.java)
 17. [513.找树左下角的值](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B513%5D%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC.java)
+18. [106.从中序与后序遍历序列构造二叉树](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B106%5D%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.java)
 
 ---
 
@@ -98,6 +99,8 @@
 5. [63.不同路径Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B63%5D%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84%20II.java)
 6. [343.整数拆分](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B343%5D%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.java)
 7. [96.不同的二叉搜索树](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B96%5D%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.java)
+8. [416.分割等和子集](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B416%5D%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.java)
+9. [1049.最后一块石头的重量Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B1049%5D%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8F%20II.java)
 
 ---
 
