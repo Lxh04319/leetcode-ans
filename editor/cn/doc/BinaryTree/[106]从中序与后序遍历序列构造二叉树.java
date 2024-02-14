@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    //存位置，避免每次找根节点都循环查找
+    //存位置，避免每次在中序中找根节点都循环查找
     HashMap<Integer,Integer> map=new HashMap<>();
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         for(int i=0;i<inorder.length;i++){
