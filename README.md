@@ -88,6 +88,9 @@
 16. [222.完全二叉树的节点个数](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B222%5D%E5%AE%8C%E5%85%A8%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%8A%82%E7%82%B9%E4%B8%AA%E6%95%B0.java)
 17. [513.找树左下角的值](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B513%5D%E6%89%BE%E6%A0%91%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E5%80%BC.java)
 18. [106.从中序与后序遍历序列构造二叉树](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B106%5D%E4%BB%8E%E4%B8%AD%E5%BA%8F%E4%B8%8E%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97%E6%9E%84%E9%80%A0%E4%BA%8C%E5%8F%89%E6%A0%91.java)
+19. [654.最大二叉树](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B654%5D%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91.java)
+20. [617.合并二叉树](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B617%5D%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.java)
+21. [700.二叉搜索树中的搜索](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B700%5D%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%90%9C%E7%B4%A2.java)
 
 ---
 
