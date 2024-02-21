@@ -91,6 +91,9 @@
 19. [654.最大二叉树](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B654%5D%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91.java)
 20. [617.合并二叉树](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B617%5D%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.java)
 21. [700.二叉搜索树中的搜索](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B700%5D%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%90%9C%E7%B4%A2.java)
+22. [98.验证二叉搜索树](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B98%5D%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.java)
+23. [530.二叉搜索树的最小绝对差](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B530%5D%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E7%BB%9D%E5%AF%B9%E5%B7%AE.java)
+24. [501.二叉搜索树中的众数](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BinaryTree/%5B501%5D%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E4%BC%97%E6%95%B0.java)
 
 ---
 
