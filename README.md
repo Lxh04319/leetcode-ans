@@ -99,6 +99,13 @@
 
 ---
 
+### 贪心
+1. [455.分发饼干](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B455%5D%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.java)
+2. [55.跳跃游戏](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B55%5D%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.java)
+3. [45.跳跃游戏Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B45%5D%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.java)
+
+---
+
 ### 动态规划
 1. [509.斐波那契数](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B509%5D%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.java)
 2. [70.爬楼梯](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/%5B70%5D%E7%88%AC%E6%A5%BC%E6%A2%AF.java)
