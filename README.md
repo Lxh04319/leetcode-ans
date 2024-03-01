@@ -106,6 +106,7 @@
 4. [134.加油站](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B134%5D%E5%8A%A0%E6%B2%B9%E7%AB%99.java)
 5. [135.分发糖果](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B135%5D%E5%88%86%E5%8F%91%E7%B3%96%E6%9E%9C.java)
 6. [860.柠檬水找零]()
+7. [406.根据身高重建队列]()
 
 ---
 
