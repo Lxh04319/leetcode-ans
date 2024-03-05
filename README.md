@@ -111,6 +111,9 @@
 9. [435.无重叠区间](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B435%5D%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.java)
 10. [452.用最少数量的箭引爆气球](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B452%5D%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.java)
 11. [56.合并区间](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B56%5D%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.java)
+12. [738.单调递增的数字](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B738%5D%E5%8D%95%E8%B0%83%E9%80%92%E5%A2%9E%E7%9A%84%E6%95%B0%E5%AD%97.java)
+13. [53.最大子数组和](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B53%5D%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.java)
+14. [1005.K次取反后最大化的数组和](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/Cupidity/%5B1005%5DK%20%E6%AC%A1%E5%8F%96%E5%8F%8D%E5%90%8E%E6%9C%80%E5%A4%A7%E5%8C%96%E7%9A%84%E6%95%B0%E7%BB%84%E5%92%8C.java)
 
 ---
 
