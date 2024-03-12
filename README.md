@@ -110,7 +110,11 @@
 2. [216.组合总和Ⅲ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B216%5D%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20III.java)
 3. [17.电话号码的字母组合](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B17%5D%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.java)
 4. [39.组合总和](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B39%5D%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.java)
-5. [40.组合总和Ⅱ]https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B40%5D%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20II.java)
+5. [40.组合总和Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B40%5D%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20II.java)
+6. [78.子集](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B78%5D%E5%AD%90%E9%9B%86.java)
+7. [90.子集Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B90%5D%E5%AD%90%E9%9B%86II.java)
+8. [46.全排列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B46%5D%E5%85%A8%E6%8E%92%E5%88%97.java)
+9. [47.全排列Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B47%5D%E5%85%A8%E6%8E%92%E5%88%97II.java)
 
 ---
 
