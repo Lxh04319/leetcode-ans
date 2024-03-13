@@ -115,6 +115,8 @@
 7. [90.子集Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B90%5D%E5%AD%90%E9%9B%86II.java)
 8. [46.全排列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B46%5D%E5%85%A8%E6%8E%92%E5%88%97.java)
 9. [47.全排列Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B47%5D%E5%85%A8%E6%8E%92%E5%88%97II.java)
+10. [491.非递减子序列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B491%5D%E9%9D%9E%E9%80%92%E5%87%8F%E5%AD%90%E5%BA%8F%E5%88%97.java)
+11. [131.分割回文串](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/BackTracking/%5B131%5D%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.java)
 
 ---
 
