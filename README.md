@@ -150,6 +150,13 @@
 9. [1049.最后一块石头的重量Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B1049%5D%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8F%20II.java)
 10. [121.买卖股票的最佳时机](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B121%5D%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.java)
 11. [122.买卖股票的最佳时期Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B122%5D%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%20II.java)
+12. [198.打家劫舍](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B198%5D%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.java)
+13. [213.打家劫舍Ⅱ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B213%5D%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20II.java)
+14. [337.打家劫舍Ⅲ](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B337%5D%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D%20III.java)
+15. [300.最长递增子序列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B300%5D%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.java)
+16. [674.最长连续递增序列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B674%5D%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.java)
+17. [718.最长重复子数组](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B718%5D%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.java)
+18. [1143.最长公共子序列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B1143%5D%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.java)
 
 ---
 
