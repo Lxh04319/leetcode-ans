@@ -157,6 +157,9 @@
 16. [674.最长连续递增序列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B674%5D%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.java)
 17. [718.最长重复子数组](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B718%5D%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.java)
 18. [1143.最长公共子序列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B1143%5D%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.java)
+19. [53.最大子数组和](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B53%5D%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.java)
+20. [392.判断子序列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B392%5D%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.java)
+21. [115.不同的子序列](https://github.com/lxh11111/leetcode-ans/blob/master/editor/cn/doc/DP/%5B115%5D%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97.java)
 
 ---
 
